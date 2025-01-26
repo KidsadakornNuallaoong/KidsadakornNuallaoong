@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Computer Engineer
 ------------------------------------
 
-I'm Student from Sripatum University 2nd years.
+I'm Student from Sripatum University 3nd years.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kidsadakornnuallaoong&theme=juicyfresh&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
