@@ -9,7 +9,7 @@ I'm Student from Sripatum University 3nd years.
 [![trophy](https://github-profile-trophy.vercel.app/?username=kidsadakornnuallaoong&theme=juicyfresh&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [kidsadakorn.nua@spumail.net](mailto:kidsadakorn.nua@spumail.net)
+* ✉️  You can contact me at [kidsadakorn.nua+contact@gmail.net](mailto:kidsadakorn.nua+contact@gmail.net)
 * 🧠  I'm learning Artificial Intelligence, Computer Architecture, Internet of things, Network, Security
 * 🤝  I'm open to collaborating on Artificial Intelligence, Deep learning, large language model
 
