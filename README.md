@@ -15,7 +15,7 @@ Thai : Native | English : Intermediate | Japan : Beginner
 - C/C++ : Object Oriented Programming, AI, Image, API, Parallel computing, Internet of things ( Arduino, ESP32, ESP32S3 )
 - VHDL : Hardware component design
 - Python : AI, Image processing, Data Analysis
-- JavaScript/TypeScript : Web development ( React, Vite, NextJS), API, Chatbot ( Discord )
+- JavaScript/TypeScript : Web development ( React, Vite, NextJS ), API, Chatbot ( Discord )
 - Go : API
 - Java : Object Oriented Programming
 - Matlab : Design model AI, Data Analysis, Generate model to code C/C++
