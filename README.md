@@ -18,7 +18,7 @@ Thai : Native | English : Intermediate | Japan : Beginner
 - JavaScript/TypeScript : Web development ( React, Vite, NextJS ), API, Chatbot ( Discord )
 - Go : API
 - Java : Object Oriented Programming
-- Matlab : Design model AI, Data Analysis, Generate model to code C/C++
+- Matlab : Design model AI, Data Analysis, Generate model to C/C++
 
 ### 📔 Runtime
 - NodeJS
